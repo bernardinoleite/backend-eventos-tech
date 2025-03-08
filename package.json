@@ -1,0 +1,24 @@
+{
+  "name": "api-eventos-tech",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "eventos",
+    "tecnologia"
+  ],
+  "homepage": "https://github.com/bernardinoleite/backend-eventos-tech#readme",
+  "bugs": {
+    "url": "https://github.com/bernardinoleite/backend-eventos-tech/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernardinoleite/backend-eventos-tech.git"
+  },
+  "license": "ISC",
+  "author": "Bernardino Leite",
+  "type": "commonjs",
+  "main": "app.ts",
+  "scripts": {
+    "test": "start"
+  }
+}
