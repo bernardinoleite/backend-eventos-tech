@@ -3,7 +3,7 @@ import { router } from './routes/index';
 import { connectDB } from './database';
 const app = express();
 app.use(express.json());
-app.use("/api/v1", router);
+app.use("/api.eventos-tech/v1", router);
 
 app.listen(2908, "localhost")
     .on("listening", () => {
